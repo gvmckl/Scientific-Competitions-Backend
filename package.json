@@ -1,0 +1,15 @@
+{
+  "name": "scientific_competitions-api",
+  "version": "1.0.0",
+  "description": "The purpose of this API is to serve as a repository of competitions available to students with the aim of promoting the world of STEM in schools and transforming the education and lives of every student.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "author": "Gvmckl",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
