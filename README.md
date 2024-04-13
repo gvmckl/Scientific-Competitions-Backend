@@ -19,7 +19,7 @@ Competições científicas são eventos que promovem a participação de estudan
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/gvmckl/scientific_competitions-api
+   git clone https://github.com/gvmckl/Scientific-Competitions-Backend
    ```
 
 2. Instale as dependências:
