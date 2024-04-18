@@ -52,7 +52,7 @@ Competições científicas são eventos que promovem a participação de estudan
    
 4. Acesse o repositório do site em:
     ```bash
-   https://github.com/gvmckl/Scientific-Competitions-Backend
+   https://github.com/gvmckl/Scientific-Competitions-Frontend
      ```
 
 ## ❓Quais são os planos futuros e previstos para as atualizações do projeto?
@@ -147,7 +147,7 @@ Scientific competitions are events that promote student participation in areas s
 
 4. Access the website repository at:
     ```bash
-    https://github.com/gvmckl/Scientific-Competitions-Backend
+    https://github.com/gvmckl/Scientific-Competitions-Frontend
      ```
 
 ## ❓ What are the future plans and updates planned for the project?
